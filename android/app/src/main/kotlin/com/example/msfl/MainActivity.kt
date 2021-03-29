@@ -1,4 +1,4 @@
-package com.example.msfl
+package org.meizucustoms.flashlight
 
 import io.flutter.embedding.android.FlutterActivity
 
